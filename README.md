@@ -51,6 +51,6 @@ A tech-savvy individual pursuing a degree in Computer Engineering. My primary ex
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpadeleob&show_icons=true&theme=dark&locale=en&layout=compact" alt="bpadeleon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpadeleon&show_icons=true&theme=dark&locale=en&layout=compact" alt="bpadeleon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpadeleon&show_icons=true&theme=dark&locale=en" alt="bpadeleon" /></p>
